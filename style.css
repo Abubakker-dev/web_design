@@ -1,0 +1,37 @@
+body {
+	margin: 0;
+	background: #eef7f0eb;
+}
+.box {
+	background: #eae3e3ed;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 40px;
+	margin-top: 12px;
+	margin-bottom: 20px;
+	border-radius: 8px;
+}
+img {
+	width: 100%;
+}
+h1 {
+	margin-top: 0;
+}
+span {
+	font-size: 32px;
+	text-transform: uppercase;
+	color: #61633f;
+	text-shadow: 6px 5px 12px #77514ade;
+}
+.name {
+	font-size: 23px;
+	line-height: 1.5;
+	color: #630f0f;
+	font-family: sans-serif;
+}
+i {
+	font-size: 44px;
+    margin-left: 460px;
+    color: #6f5353;
+}
